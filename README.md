@@ -20,7 +20,7 @@
 
 <be> I am currently an undergraduate student at BU, majoring in Computer Science and Biology!</br>
   <br>🌟 Passionate about data security and ML/AI </br>
-  </br>🌐 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jerry-teixeira-a15b111aa) 
+  </br>🌐 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-teixeira-a15b111aa/)
   </br>
 
 ---
