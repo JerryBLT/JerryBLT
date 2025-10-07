@@ -22,6 +22,7 @@
   <br>🌟 Passionate about data security and ML/AI </br>
   </br>🌐 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-teixeira-a15b111aa/)
   </br>
+  <br>My portfolio: [JerryPortfolio](https://jerry-teixeira-portfolio.vercel.app)</br>
 
 ---
 
