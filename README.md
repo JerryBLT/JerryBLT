@@ -45,12 +45,6 @@
 </div>
 
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JerryBLT&theme=light&hide_border=false&include_all_commits=true&count_private=true&bg_color=89CFF0"/>
-</p>
-
-
 
 
 
