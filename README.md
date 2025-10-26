@@ -48,8 +48,10 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JerryBLT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Github Stats
+<a href="https://github.com/JerryBLT/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JerryBLT&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jung-eugene"/>&nbsp;
+</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
